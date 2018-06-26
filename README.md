@@ -1,1 +1,3 @@
 # learning
+Here is my rough collection of some useful notebooks /tutorials I've ever found
+Can help sometimes, hopefully...
